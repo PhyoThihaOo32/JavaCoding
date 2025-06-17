@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package brocode;
 
 public class Rectangle {
     private double width;

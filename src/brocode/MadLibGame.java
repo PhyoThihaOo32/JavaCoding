@@ -1,3 +1,5 @@
+package brocode;
+
 import java.util.Scanner;
 
 public class MadLibGame {
